@@ -1,0 +1,14 @@
+C:\Users\HarshIT\source\repos\MyApplication\MyStateful\obj\Debug\netcoreapp2.0\win7-x64\MyStateful.csproj.CoreCompileInputs.cache
+C:\Users\HarshIT\source\repos\MyApplication\MyStateful\obj\Debug\netcoreapp2.0\win7-x64\MyStateful.AssemblyInfoInputs.cache
+C:\Users\HarshIT\source\repos\MyApplication\MyStateful\obj\Debug\netcoreapp2.0\win7-x64\MyStateful.AssemblyInfo.cs
+C:\Users\HarshIT\source\repos\MyApplication\MyStateful\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\HarshIT\source\repos\MyApplication\MyStateful\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\HarshIT\source\repos\MyApplication\MyStateful\bin\Debug\netcoreapp2.0\win7-x64\MyStateful.exe
+C:\Users\HarshIT\source\repos\MyApplication\MyStateful\bin\Debug\netcoreapp2.0\win7-x64\MyStateful.deps.json
+C:\Users\HarshIT\source\repos\MyApplication\MyStateful\bin\Debug\netcoreapp2.0\win7-x64\MyStateful.runtimeconfig.json
+C:\Users\HarshIT\source\repos\MyApplication\MyStateful\bin\Debug\netcoreapp2.0\win7-x64\MyStateful.runtimeconfig.dev.json
+C:\Users\HarshIT\source\repos\MyApplication\MyStateful\bin\Debug\netcoreapp2.0\win7-x64\MyStateful.dll
+C:\Users\HarshIT\source\repos\MyApplication\MyStateful\bin\Debug\netcoreapp2.0\win7-x64\MyStateful.pdb
+C:\Users\HarshIT\source\repos\MyApplication\MyStateful\obj\Debug\netcoreapp2.0\win7-x64\MyStateful.csprojResolveAssemblyReference.cache
+C:\Users\HarshIT\source\repos\MyApplication\MyStateful\obj\Debug\netcoreapp2.0\win7-x64\MyStateful.dll
+C:\Users\HarshIT\source\repos\MyApplication\MyStateful\obj\Debug\netcoreapp2.0\win7-x64\MyStateful.pdb
