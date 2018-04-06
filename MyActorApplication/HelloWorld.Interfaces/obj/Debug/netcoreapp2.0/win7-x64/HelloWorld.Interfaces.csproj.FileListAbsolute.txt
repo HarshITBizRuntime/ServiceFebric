@@ -1,0 +1,9 @@
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.deps.json
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.dll
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.AssemblyInfoInputs.cache
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.AssemblyInfo.cs
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.pdb
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.dll
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.pdb

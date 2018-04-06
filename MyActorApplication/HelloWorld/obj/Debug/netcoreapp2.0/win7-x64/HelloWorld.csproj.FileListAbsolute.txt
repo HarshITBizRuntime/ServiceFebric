@@ -1,0 +1,17 @@
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.dll
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.AssemblyInfo.cs
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.exe
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.deps.json
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.runtimeconfig.json
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.runtimeconfig.dev.json
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.dll
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.pdb
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.pdb
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.csproj.CopyComplete
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.dll
+C:\Users\HarshIT\source\repos\MyActorApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.pdb
